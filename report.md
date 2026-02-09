@@ -1,6 +1,4 @@
-# Brief Report
-
-This is a brief report describing what I learned.  
-I learned how to create a GitHub repository, clone it, and use Git commands to manage files.  
-I also learned how to build a simple portfolio page using semantic HTML5 elements.  
-Creating branches and merging helped me understand version control better.
+# Lab 1 Report
+In this lab, I learned how to use Git and GitHub for version control.
+I created a semantic HTML portfolio and practiced creating branches, committing changes, and merging them.
+I also deployed my work to GitHub Pages and learned how to structure HTML semantically.
